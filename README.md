@@ -1,4 +1,4 @@
-# shop
+# Shopping Mall(Vue.js)
 
 ## Project setup
 ```
